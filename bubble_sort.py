@@ -23,3 +23,6 @@ def bubble(data, drawData, timer):
 		
 	# sorted elements generated with Green color
 	drawData(data, ['Green' for x in range(len(data))])
+
+
+
